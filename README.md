@@ -1,5 +1,5 @@
 Hi there,
-# jajaramilloz.github.io
+# jajaramilloz
 
 I'm:
 - Software Engineer
