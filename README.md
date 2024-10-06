@@ -1,3 +1,4 @@
 # jajaramilloz.github.io
-Software Engineer
-CNC woodworker
+
+- Software Engineer
+- CNC woodworker
